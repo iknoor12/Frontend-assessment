@@ -10,7 +10,6 @@ The project includes a responsive hero slider, product listing grid, and interac
 
 ### Responsive Hero Slider
 - Autoplay slider
-- Infinite looping
 - Navigation arrows
 - Pagination dots
 - Mobile swipe support
@@ -18,7 +17,6 @@ The project includes a responsive hero slider, product listing grid, and interac
 
 ### Product Listing Grid
 - 4 cards on desktop
-- 2–3 cards on tablet
 - 2 cards on mobile
 - Product title
 - Brand name
@@ -32,9 +30,7 @@ The project includes a responsive hero slider, product listing grid, and interac
 
 ### Accessibility
 - Semantic HTML structure
-- Proper button usage
 - Accessible image alt text
-- Keyboard-friendly interactions
 - Clean UI hierarchy
 
 ---
@@ -54,3 +50,25 @@ project/
 ├── style.css
 ├── script.js
 └── assets/
+---
+
+### Deploy Using GitHub Pages
+- Open GitHub repository
+- Go to Settings
+- Click Pages
+
+Under:
+Build and Deployment
+
+choose:
+Source → Deploy from branch
+Branch → main
+Folder → /root
+Click Save
+
+## Live Website
+
+After deployment, GitHub generates a live link:
+https://your-username.github.io/frontend-assessment/
+
+The project will now be hosted online.
