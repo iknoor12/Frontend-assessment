@@ -41,17 +41,6 @@ The project includes a responsive hero slider, product listing grid, and interac
 - JavaScript (ES6)
 ---
 
-## Folder Structure
-
-```bash
-project/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
----
-
 ### Deploy Using GitHub Pages
 - Open GitHub repository
 - Go to Settings
@@ -72,3 +61,15 @@ After deployment, GitHub generates a live link:
 https://your-username.github.io/frontend-assessment/
 
 The project will now be hosted online.
+
+
+## Folder Structure
+
+```bash
+project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+---
